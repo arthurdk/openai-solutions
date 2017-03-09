@@ -7,4 +7,4 @@ Some of the solutions are inspired from research papers, blog posts and Github r
 
 ## Solved environments
 
-* [FrozenLake-v0](https://github.com/arthurdk/openai_solutions/FrozenLake)
+* [FrozenLake-v0](https://github.com/arthurdk/openai-solutions/tree/master/FrozenLake)
